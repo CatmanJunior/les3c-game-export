@@ -1,0 +1,1 @@
+document.getElementById("game").textContent = "Game-export versie 1";
